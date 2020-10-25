@@ -1,0 +1,6 @@
+name: Wartung
+author: Backdoor INC.
+main: net.backdoorinc.wartung.Wartung
+version: 1.0
+commands:
+  wartung:
